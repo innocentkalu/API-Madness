@@ -1,0 +1,34 @@
+img {
+  width: 700px;
+  height: 700px;
+  display: block;
+  margin: auto;
+}
+
+.main {
+  width: 100%;
+  height: 700px;
+  position: relative;
+  padding: 3px; 
+  border: 1px solid black;
+}
+#picture {
+  width: 75%;
+  height: 90%;
+  float: left;
+  position: relative;
+}
+
+#title {
+  font-size: 1.2em;
+  position: relative;
+  clear: both;
+}
+
+#otherInfo {
+  width: 24%;
+  height: 700px;
+  float: right;
+  position: relative;
+  clear: right;
+}
